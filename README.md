@@ -1,3 +1,3 @@
 # Sample 
 
-![Sample](https://github.com/ABHI165/Slider/blob/main/assets/demo.gif)
+![Sample](https://github.com/ABHI165/Slider/blob/master/assets/demo.gif)
